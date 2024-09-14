@@ -1,0 +1,15 @@
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\bin\Debug\net8.0\Proyecto_FAT.exe
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\bin\Debug\net8.0\Proyecto_FAT.deps.json
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\bin\Debug\net8.0\Proyecto_FAT.runtimeconfig.json
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\bin\Debug\net8.0\Proyecto_FAT.dll
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\bin\Debug\net8.0\Proyecto_FAT.pdb
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\Proyecto_FAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\Proyecto_FAT.AssemblyInfoInputs.cache
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\Proyecto_FAT.AssemblyInfo.cs
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\Proyecto_FAT.csproj.CoreCompileInputs.cache
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\Proyecto_FAT.sourcelink.json
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\Proyecto_FAT.dll
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\refint\Proyecto_FAT.dll
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\Proyecto_FAT.pdb
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\Proyecto_FAT.genruntimeconfig.cache
+D:\Francisco Queme\Github_proyect\proyecto_FaT\Proyecto_FAT\obj\Debug\net8.0\ref\Proyecto_FAT.dll
