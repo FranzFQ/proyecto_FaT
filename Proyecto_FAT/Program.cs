@@ -160,7 +160,7 @@ class Program
         Console.WriteLine("Ingrese el texto: ");
         while (true){
             new_text += Console.ReadLine()!;
-            Console.WriteLine("Presione la tecla -Escape- para confirmar");
+            Console.WriteLine("Presione la tecla -Escape- para confirmar cambios");
             var new_key = Console.ReadKey();
             if (new_key.Key == ConsoleKey.Escape){
                 break;
